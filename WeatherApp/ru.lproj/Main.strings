@@ -1,0 +1,33 @@
+
+/* Class = "UITextField"; text = "Введите название города"; ObjectID = "DX4-6f-KMi"; */
+"DX4-6f-KMi.text" = "Введите название города";
+
+/* Class = "UILabel"; text = "Дневная температура (макс/мин):"; ObjectID = "NvF-Xf-yaC"; */
+"NvF-Xf-yaC.text" = "Дневная температура (макс/мин):";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cAo-En-vpc"; */
+"cAo-En-vpc.text" = "лабел";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cri-q5-44q"; */
+"cri-q5-44q.text" = "лабел";
+
+/* Class = "UILabel"; text = "14"; ObjectID = "eQR-9M-GKa"; */
+"eQR-9M-GKa.text" = "14";
+
+/* Class = "UILabel"; text = "o"; ObjectID = "ebg-Fh-yHe"; */
+"ebg-Fh-yHe.text" = "o";
+
+/* Class = "UIButton"; normalTitle = " Поиск"; ObjectID = "ikF-Y4-9vM"; */
+"ikF-Y4-9vM.normalTitle" = " Поиск";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ilj-Dc-FWp"; */
+"ilj-Dc-FWp.text" = "лабел";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "wFD-57-5kY"; */
+"wFD-57-5kY.text" = "10";
+
+/* Class = "UILabel"; text = "Minsk,BY"; ObjectID = "x7T-Ju-3Ta"; */
+"x7T-Ju-3Ta.text" = "Минск";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "xSR-Yc-Yqb"; */
+"xSR-Yc-Yqb.text" = "15";
